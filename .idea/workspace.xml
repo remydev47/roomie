@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70989394-425a-4b8c-812f-099af05cf0a1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/welcome/logo-dark.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/welcome/logo-light.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/welcome/welcome.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Navbar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ui/Button.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/puter.action.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes/home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/home.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +16,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "remydev47"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/remydev47/roomie.git",
+    "accountId": "28fafb8d-9d91-458b-b0a0-0bf4e7f76b9e"
+  }
+}]]></component>
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
@@ -70,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1771141085381</updated>
-      <workItem from="1771141087628" duration="4603000" />
+      <workItem from="1771141087628" duration="7623000" />
     </task>
     <servers />
   </component>
